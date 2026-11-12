@@ -1,0 +1,13 @@
+{
+  "imports": {
+    "@xmldom/xmldom": "npm:@xmldom/xmldom@0.8.11"
+  },
+  "nodeModulesDir": "none",
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "deno.ns"]
+  },
+  "fmt": {
+    "singleQuote": true,
+    "lineWidth": 100
+  }
+}
